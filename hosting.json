@@ -1,0 +1,9 @@
+{
+  "project_id": "appgprj_6ab8f2ad8cf48191905ee5f508cff3ae",
+  "title": "ZHANG.MT Design Portfolio",
+  "slug": "zhangmt-portfolio",
+  "expected_url": "https://zhangmt-portfolio.chirpy-pear-6133.chatgpt.site",
+  "static": {
+    "directory": "."
+  }
+}
