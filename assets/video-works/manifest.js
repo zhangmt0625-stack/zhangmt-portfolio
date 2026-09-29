@@ -12,8 +12,8 @@ window.videoWorks = {
     { title: '梦境行为诊断 H5 测试', file: 'assets/video-works/web/h5.webm', note: 'H5 互动测试体验' }
   ],
   film: [
-    { title: '小满', file: 'assets/video-works/web/film-01.webm', note: '节气主题影像 / 剪辑' },
-    { title: '久留', file: 'assets/video-works/web/jiu-liu.webm', note: '全国大学生广告艺术大赛国家优秀奖 / 前期策划与 AI 出图、视频制作' },
-    { title: '图形创意快闪', file: 'assets/video-works/web/graphic-flash.webm', note: '动态图形 / 剪辑练习' }
+    { title: '小满', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/film-01.mp4', note: '节气主题影像 / 剪辑' },
+    { title: '久留', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/jiu-liu.mp4', note: '全国大学生广告艺术大赛国家优秀奖 / 前期策划与 AI 出图、视频制作' },
+    { title: '图形创意快闪', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/graphic-flash.mp4', note: '动态图形 / 剪辑练习' }
   ]
 };
