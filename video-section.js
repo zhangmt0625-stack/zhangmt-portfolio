@@ -9,7 +9,7 @@
         { title: '交互实验 01', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/interaction-01-clear.webm', note: '音画互动实验' },
         { title: '交互实验 02', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/interaction-02-clear.webm', note: '实时交互实验' },
         { title: '交互实验 03', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/interaction-03-clear.webm', note: '声音与画面反馈' },
-        { title: '光感装置', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/light-installation-clear.webm', note: '光线变化触发视觉反馈' },
+        { title: '光感装置', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/light-installation-sdr-v2.webm', note: '光线变化触发视觉反馈' },
         { title: '触摸 + 键盘', file: 'https://github.com/zhangmt0625-stack/zhangmt-portfolio/releases/download/media-v1/touch-keyboard-clear.webm', note: '多通道输入交互' }
       ]
     },
